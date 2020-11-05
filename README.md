@@ -13,6 +13,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
 <p>
-📌 My Blog Page: :point_right: [nisaefendioglu.blog](https://nisaefendioglu.blog/) </p>
-<p> :email: nisaefendioglu0@gmail.com
+📌 My Blog Page: :point_right: [nisaefendioglu.blog] (https://nisaefendioglu.blog/) </p>
+<p> :email: Mail: nisaefendioglu0@gmail.com
 
