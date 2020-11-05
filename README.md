@@ -8,7 +8,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-## :octocat: :pushpin: How to Reach Me
+## :octocat: How to Reach Me
 
 
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
