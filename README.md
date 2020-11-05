@@ -12,4 +12,4 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
-
+📌 My Blog Page (https://nisaefendioglu.blog/)
