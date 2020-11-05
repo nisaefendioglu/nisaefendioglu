@@ -1,4 +1,4 @@
-### Hello! :earth_americas:
+### Hello :earth_americas: !
 
 
 ## 📌 GitHub Stats And Top Languages
