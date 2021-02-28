@@ -5,7 +5,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide alt="My Top Langs"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide"/>
 </p>
 
 ## :octocat: How to Reach Me
