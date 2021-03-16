@@ -15,4 +15,4 @@
 
 📌 My Blog Page: :point_right: https://nisaefendioglu.blog/ 
 <p> :email: Mail: nisaefendioglu0@gmail.com
-📌 Youtube Java Series : https://www.youtube.com/playlist?list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO
+<p> 📌 Youtube Java Series : https://www.youtube.com/playlist?list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO
