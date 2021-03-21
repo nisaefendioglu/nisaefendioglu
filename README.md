@@ -1,12 +1,5 @@
 ### Hello :earth_americas: !
 
-<a href="https://github.com/nisaefendioglu/nisaefendioglu">
-
-![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/overview.svg)
-![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/languages.svg)
-
-</a>
-
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
