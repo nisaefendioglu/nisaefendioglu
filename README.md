@@ -15,8 +15,8 @@
 
 <a href="https://github.com/nisaefendioglu/nisaefendioglu">
 
-![](https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/overview.svg)
-![](https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/languages.svg)
+![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/overview.svg)
+![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/languages.svg)
 
 </a>
 
