@@ -3,8 +3,8 @@
 ## 📌 GitHub Stats And Top Languages
 
 <div class="row">
-  <img src="https://github.com/nisaefendioglu/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://raw.githubusercontent.com/nisaefendioglu/github-stats/master/generated/languages.svg" />
+  <img src="https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/nisaefendioglu/nisaefendioglu/master/generated/languages.svg" />
 </div>
 
 ## :octocat: How to Reach Me
