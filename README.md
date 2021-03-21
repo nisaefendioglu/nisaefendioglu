@@ -15,8 +15,8 @@
 
 [Check out the my personal GitHub page!](https://nisaefendioglu.github.io)
 
-![](https://raw.githubusercontent.com/aslanon/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
-![](https://raw.githubusercontent.com/aslanon/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
+![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
+![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
 
 📌 My Blog Page: :point_right: https://nisaefendioglu.blog/ 
 <p> :email: Mail: nisaefendioglu0@gmail.com
