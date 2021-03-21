@@ -1,5 +1,11 @@
 ### Hello :earth_americas: !
 
+<a href="https://github.com/nisaefendioglu/nisaefendioglu">
+
+![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/overview.svg)
+![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/languages.svg)
+
+</a>
 
 ## 📌 GitHub Stats And Top Languages
 
@@ -13,12 +19,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
 
-<a href="https://github.com/nisaefendioglu/nisaefendioglu">
-
-![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/overview.svg)
-![](https://github.com/nisaefendioglu/nisaefendioglu/master/generated/languages.svg)
-
-</a>
 
 📌 My Blog Page: :point_right: https://nisaefendioglu.blog/ 
 <p> :email: Mail: nisaefendioglu0@gmail.com
