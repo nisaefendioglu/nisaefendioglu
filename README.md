@@ -2,10 +2,9 @@
 
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/>
-</p>
+
+![](https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/overview.svg)
+![](https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/languages.svg)
 
 ## :octocat: How to Reach Me
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
