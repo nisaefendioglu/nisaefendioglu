@@ -12,6 +12,9 @@
 
 
 📌 My Blog Page: :point_right: https://nisaefendioglu.blog/ 
-<p> :email: Mail: nisaefendioglu0@gmail.com
-<p> 📌 Youtube Java Series : https://www.youtube.com/playlist?list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO
+<p> :email: Mail: nisaefendioglu0@gmail.com </p>
+<p> 📌 Youtube Java Series : https://www.youtube.com/playlist?list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO </p>
+ 
+![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
+![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
 
