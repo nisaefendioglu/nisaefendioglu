@@ -1,11 +1,7 @@
 ### Hello :earth_americas: !
 
 ## 📌 GitHub Stats And Top Languages
-![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
-![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
 
-
- 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/>
