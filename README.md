@@ -13,8 +13,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
 
-[Check out the my personal GitHub page!](https://nisaefendioglu.github.io)
-
 ![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
 ![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
 
