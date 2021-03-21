@@ -13,9 +13,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/nisaefendioglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu/)
 
+<a href="https://github.com/nisaefendioglu/nisaefendioglu">
 
-![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
-![](https://raw.githubusercontent.com/nisaefendioglu/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
+![](https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/overview.svg)
+![](https://github.com/nisaefendioglu/nisaefendioglu/blob/master/generated/languages.svg)
+
+</a>
 
 📌 My Blog Page: :point_right: https://nisaefendioglu.blog/ 
 <p> :email: Mail: nisaefendioglu0@gmail.com
