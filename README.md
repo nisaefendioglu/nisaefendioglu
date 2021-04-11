@@ -19,7 +19,5 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/> </p>
 
-📌 My Blog Page: :point_right: https://nisaefendioglu.blog/ 
-<p> :email: Mail: nisaefendioglu0@gmail.com </p>
 <p> 📌 Youtube Java Series : https://www.youtube.com/playlist?list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO </p>
  
