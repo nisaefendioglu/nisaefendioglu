@@ -3,7 +3,7 @@
 ## 📌 GitHub Stats And Top Languages
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ff0500)
-![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=C#&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=C#&logoColor=673dff)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
