@@ -7,7 +7,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=005eff)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ### Follow Me:
 [![Web Site](https://img.shields.io/badge/-WebSite-090909?style=for-the-badge&logo=web&logoColor=1195F5)](https://nisaefendioglu.blog)
