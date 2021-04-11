@@ -9,7 +9,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ### Follow Me:
-[![Blog](https://img.shields.io/badge/-Blog-090909?style=for-the-badge&logo=web&logoColor=1195F5)](https://nisaefendioglu.blog)
+[![Web Site](https://img.shields.io/badge/-Blog-090909?style=for-the-badge&logo=web&logoColor=1195F5)](https://nisaefendioglu.blog)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/NisaEfendioğlu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/nisaefendioglu)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nisaefendioglu)
