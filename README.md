@@ -19,4 +19,3 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/> </p>
 
-<p> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
