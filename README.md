@@ -7,7 +7,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=005eff)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![MySql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ## :octocat: How to Reach Me
 [![](https://img.shields.io/badge/-JavaSeries-090909?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=R3tMpNhp1HI&list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO&ab_channel=NisaEfendio%C4%9Flu)
