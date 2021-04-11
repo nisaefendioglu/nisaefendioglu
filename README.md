@@ -10,6 +10,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ## :octocat: How to Reach Me
+[![](https://img.shields.io/badge/-JavaSeries-090909?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=R3tMpNhp1HI&list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO&ab_channel=NisaEfendio%C4%9Flu)
 [![Web Site](https://img.shields.io/badge/-WebSite-090909?style=for-the-badge&logo=web&logoColor=1195F5)](https://nisaefendioglu.blog)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/NisaEfendioğlu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/nisaefendioglu)
@@ -18,6 +19,3 @@
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/> </p>
-
-<p> 📌 Youtube Java Series : https://www.youtube.com/playlist?list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO </p>
- 
