@@ -1,5 +1,7 @@
 ### Hello :earth_americas: !
 
+<img align='right' src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="230">
+
 ## 📌 GitHub Stats And Top Languages
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ff0500)
