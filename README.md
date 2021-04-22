@@ -23,6 +23,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=flat&logo=Twitter)](https://twitter.com/nisaefendioglu)
 
+### GitHub Analytics
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/> </p>
-
+<p align="center">
+<a href="https://github.com/nisaefendioglu">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="nisaefendioglu"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisaefendioglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="nisaefendioglu"/>
+</a>
+</p>
