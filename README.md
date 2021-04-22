@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=flat&logo=Twitter)](https://twitter.com/nisaefendioglu)
 
-### 📌 GitHub Analytics
+## 📌 GitHub Analytics
 
 <a href="https://github.com/nisaefendioglu">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&locale=en&theme=default &include_all_commits=true&count_private=true" alt="nisaefendioglu"/>
