@@ -13,7 +13,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=HTML5&logoColor=E34F26)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Windows](https://img.shields.io/badge/Windows-090909?style=flat&logo=windows)
 
 ## :octocat: How to Reach Me
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> [![](https://img.shields.io/badge/-JavaSeries-090909?style=flat&logo=YouTube&logoColor=2684ff)](https://www.youtube.com/watch?v=R3tMpNhp1HI&list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO&ab_channel=NisaEfendio%C4%9Flu)
