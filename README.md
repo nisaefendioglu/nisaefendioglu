@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 📌 How to Reach Me 🤝🏻
+### 📌 How to Reach Me 🤝🏻
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> [![](https://img.shields.io/badge/-JavaSeries-090909?style=flat&logo=YouTube&logoColor=2684ff)](https://www.youtube.com/watch?v=R3tMpNhp1HI&list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO&ab_channel=NisaEfendio%C4%9Flu)
 [![Blog](https://img.shields.io/badge/-Blog-090909?style=flat&logo=web&logoColor=1195F5)](https://nisaefendioglu.blog)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/NisaEfendioğlu)
