@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=flat&logo=Twitter)](https://twitter.com/nisaefendioglu)
 
-### GitHub Analytics
+## 📌 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nisaefendioglu">
