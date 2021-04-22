@@ -1,6 +1,5 @@
 ### Hello :earth_americas: !
 
-<img align='right' src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="150">
   
 ## 📌 GitHub Stats And Top Languages
 
