@@ -11,12 +11,12 @@
 ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ## :octocat: How to Reach Me
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> [![](https://img.shields.io/badge/-JavaSeries-090909?style=for-the-badge&logo=YouTube&logoColor=0000ff)](https://www.youtube.com/watch?v=R3tMpNhp1HI&list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO&ab_channel=NisaEfendio%C4%9Flu)
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> [![](https://img.shields.io/badge/-JavaSeries-090909?style=for-the-badge&logo=YouTube&logoColor=2684ff)](https://www.youtube.com/watch?v=R3tMpNhp1HI&list=PLioiAdpJJNbs5dRMkzuL7tUy-O7gQZbMO&ab_channel=NisaEfendio%C4%9Flu)
 [![Blog](https://img.shields.io/badge/-Blog-090909?style=for-the-badge&logo=web&logoColor=1195F5)](https://nisaefendioglu.blog)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/NisaEfendioğlu)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-090909?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/11902787/nisa-efendioglu)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/nisaefendioglu)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/nisaefendioglu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/nisaefendioglu)
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&count_private=true&hide=contribs,issues" alt="nisaefendioglu's github stats" />       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaefendioglu&layout=compact&hide" alt="My Top Langs"/> </p>
