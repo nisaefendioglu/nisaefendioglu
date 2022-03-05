@@ -1,4 +1,4 @@
-# Hello :earth_americas: ! <img align='right' src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="130">
+# Hello :earth_americas: ! 
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&logo=googleplay&logoColor=1195F5)](https://play.google.com/store/apps/developer?id=Nisa+Efendio%C4%9Flu&hl=tr&gl=US)
 [![Website](https://img.shields.io/badge/-Blog-blueviolet?style=flat&logo=blog&logoColor=1195F5)](https://nisaefendioglu.blog)
