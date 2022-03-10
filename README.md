@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00a8ff?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-success?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/11902787/nisa-efendioglu)
 [![Twitter](https://img.shields.io/badge/-Twitter-red?style=flat&logo=Twitter)](https://twitter.com/nisaefendioglu)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=FFFFFF)](https://twitter.com/nisaefendioglu)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/nisaefendiogluu)
 
 ## 📌 GitHub Analytics
 
