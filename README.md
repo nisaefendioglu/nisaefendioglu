@@ -1,6 +1,6 @@
 # Hello :earth_americas: ! 
 
-[![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&logo=googleplay&logoColor=1195F5)](https://play.google.com/store/apps/developer?id=Nisa+Efendio%C4%9Flu&hl=tr&gl=US)
+[![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&logo=googleplay&logoColor=1195F5)](https://play.google.com/store/apps/dev?id=6411367502435954294)
 [![Website](https://img.shields.io/badge/-Blog-blueviolet?style=flat&logo=blog&logoColor=1195F5)](https://nisaefendioglu.blog)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/NisaEfendioğlu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00a8ff?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisaefendioglu)
