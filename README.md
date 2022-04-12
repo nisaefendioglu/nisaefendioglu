@@ -1,4 +1,3 @@
-# Hello :earth_americas: ! 
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&logo=googleplay&logoColor=1195F5)](https://play.google.com/store/apps/dev?id=6411367502435954294)
 [![Website](https://img.shields.io/badge/-Blog-blueviolet?style=flat&logo=blog&logoColor=1195F5)](https://nisaefendioglu.blog)
@@ -8,10 +7,3 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-red?style=flat&logo=Twitter)](https://twitter.com/nisaefendioglu)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/nisaefendiogluu)
 
-## 📌 GitHub Analytics
-
-<a href="https://github.com/nisaefendioglu">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nisaefendioglu&show_icons=true&locale=en&theme=default &include_all_commits=true&count_private=true" alt="nisaefendioglu"/>
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisaefendioglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=default" alt="nisaefendioglu"/>
-
-</a>
