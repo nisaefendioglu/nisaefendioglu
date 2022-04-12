@@ -1,8 +1,6 @@
 ### Hello :earth_americas: ! 
 
-I'm Nisa.
-
-You can get more information about me from the links below.
+I'm Nisa. You can get more information about me from the links below.
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&logo=googleplay&logoColor=1195F5)](https://play.google.com/store/apps/dev?id=6411367502435954294)
 [![Website](https://img.shields.io/badge/-Website-blueviolet?style=flat&logo=blog&logoColor=1195F5)](https://nisaefendioglu.dev)
